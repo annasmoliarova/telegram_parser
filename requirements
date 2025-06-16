@@ -1,0 +1,10 @@
+# Libraries:
+* pyrogram
+* json
+* datetime
+* os
+
+# Access to Telegram:
+* phone number connected to Telegram
+* access to Telegram to get the code from the messenger 
+* API credentials: api_id and api_hash
